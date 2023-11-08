@@ -17,6 +17,6 @@ Project
 ├ src  
 (他省略)  
 3.ビルド後イベントを設定  
-  start $(ProjectDir)docs\Application\Framework\CreateContents.exe "$(ProjectDir)docs\Application\Framework"  
+  start ＄(ProjectDir)docs\Application\Framework\CreateContents.exe "＄(ProjectDir)docs\Application\Framework"  
   
 ビルド後イベントで**toc.yml**ファイルと同階層に**contents.md**ファイルが生成されます。
